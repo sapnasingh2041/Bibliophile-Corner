@@ -9,6 +9,8 @@ export default {
         author: 'John Green',
         rating: 4.5,
         numReviews: 10,
+        countInStock: 6
+
     },
     {
         _id : '2',
@@ -18,7 +20,8 @@ export default {
         price: 250,
         author: 'John Green',
         rating: 4,
-        numReviews: 5
+        numReviews: 5,
+        countInStock: 5
     },
     {
         _id : '3',
@@ -28,7 +31,8 @@ export default {
         price: 500,
         author: 'Rudolph Russell',
         rating: 3.5,
-        numReviews: 8
+        numReviews: 8,
+        countInStock: 6
     },
     {
         _id : '4',
@@ -38,7 +42,8 @@ export default {
         price: 550,
         author: 'Steven Cooper',
         rating: 3,
-        numReviews: 12
+        numReviews: 12,
+        countInStock: 8
     }
 ]
 }
