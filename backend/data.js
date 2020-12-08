@@ -8,7 +8,7 @@ export default {
         price: 200,
         author: 'John Green',
         rating: 4.5,
-        numReviews: 10
+        numReviews: 10,
     },
     {
         _id : '2',
@@ -21,7 +21,7 @@ export default {
         numReviews: 5
     },
     {
-        _id : '2',
+        _id : '3',
         name: 'Data structures',
         category: 'Study Materials',
         image: '/images/dsa.jpeg',
@@ -31,7 +31,7 @@ export default {
         numReviews: 8
     },
     {
-        _id : '3',
+        _id : '4',
         name: 'Data Science',
         category: 'Study Materials',
         image: '/images/sds.jpeg',
