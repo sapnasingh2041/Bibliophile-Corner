@@ -42,12 +42,7 @@ function ProductScreen (props) {
                     <li>
                         Price: <b>₹{product.price}</b>
                     </li>
-                    <li>
-                        Description:
-                        <div>
-                            {product.description}
-                        </div>
-                    </li>
+                   
                 </ul>
             </div>
             <div className="details-action">
